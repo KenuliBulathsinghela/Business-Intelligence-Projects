@@ -196,17 +196,16 @@ GitHub: [KenuliBulathsinghela](https://github.com/KenuliBulathsinghela)
 ## Evidences
 
 Financial Data Analysis
+---
 
 <img width="1302" height="723" alt="image" src="https://github.com/user-attachments/assets/73bfef78-5c0f-48ec-bf15-cfa08f86fedc" />
 
----
-
 FreshMart Supermarket Dashboard
+---
 
 <img width="1283" height="708" alt="image" src="https://github.com/user-attachments/assets/a4837508-d97a-40ed-a1be-7daf899c5e51" />
 
----
-
 Train Schedule Dashboard
+---
 
 <img width="1277" height="701" alt="image" src="https://github.com/user-attachments/assets/94858dc9-9ea9-4ff9-b631-985924bc8ede" />
