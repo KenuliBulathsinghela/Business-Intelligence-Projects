@@ -1,44 +1,218 @@
-Power-BI-Reports
+# 📊 Power BI Reports & Dashboards
 
-A portfolio of Power BI dashboards and reports created for different data sources, showcasing business insights, financial analysis, and operational metrics.
+A portfolio of **Power BI dashboards and reports** developed using different datasets and real-world business scenarios. This repository demonstrates practical skills in **data analysis, data modeling, DAX, interactive visualization, KPI development, and business insight generation**.
 
-This repository contains three complete Power BI projects built for real-world scenarios:
-- Analyze and visualize financial, retail, and transportation data
-- Create interactive dashboards with KPIs, trends, and performance metrics
-- Combine multiple data sources into a single reporting platform
+The projects cover **financial performance, retail sales, and transportation operations**, showcasing how data can be transformed into interactive reports that support business decision-making.
 
-These projects demonstrate data modeling, visualization, and insights generation skills using Power BI.
+---
 
-Projects
-  1. Financial Data Analysis
-      - Analyze company financial data including revenues, expenses, and profit margins
-      - Visualize trends across multiple years and departments
-      - Key metrics: Revenue, Expenses, Net Profit, YoY Growth
-      - Features: Drill-through reports, trend lines, slicers for departments and years
+## 📌 Projects
 
-  2. FreshMart Supermarket Dashboard
-      - Retail analysis for a supermarket chain
-      - Monitor sales performance, product category trends, and branch performance
-      - Key metrics: Total Sales, Top-Selling Products, Monthly Revenue, Customer Ratings
-      - Features: Interactive filters by branch, product line, and payment method
+### 1. 💰 Financial Data Analysis
 
-  3. Train Schedule Dashboard
-      - Operational dashboard for train schedules and occupancy
-      - Track punctuality, delays, and passenger counts
-      - Key metrics: On-time Performance, Average Delays, Train Occupancy Rates
-      - Features: Dynamic calendar filters, drill-down by train routes and stations
+An interactive financial dashboard designed to analyze company performance across multiple years and departments.
 
-Technologies Used
-  - Power BI Desktop – for data modeling, transformation, and visualization
-  - DAX (Data Analysis Expressions) – for calculated columns, measures, and KPIs
-  - Excel / CSV / SQL / JSON – as data sources for reports
-  - Power BI Service – optional for publishing dashboards
+**Key Analysis:**
 
+* Revenue and expense analysis
+* Net profit and profit margin analysis
+* Year-over-year performance
+* Department-level financial performance
+* Multi-year financial trends
+
+**Key Metrics:**
+
+* Total Revenue
+* Total Expenses
+* Net Profit
+* Profit Margin
+* YoY Growth
+
+**Dashboard Features:**
+
+* Interactive slicers
+* Department and year filters
+* Trend analysis
+* Drill-through reports
+* KPI cards
+* Interactive charts and visualizations
+
+---
+
+### 2. 🛒 FreshMart Supermarket Dashboard
+
+A retail analytics dashboard developed to monitor supermarket sales performance, product trends, branches, and customer-related metrics.
+
+**Key Analysis:**
+
+* Overall sales performance
+* Product category performance
+* Top-selling products
+* Branch-level performance
+* Monthly sales trends
+* Customer ratings
+* Payment method analysis
+
+**Key Metrics:**
+
+* Total Sales
+* Monthly Revenue
+* Top-Selling Products
+* Customer Ratings
+* Branch Performance
+
+**Dashboard Features:**
+
+* Branch filters
+* Product-line filters
+* Payment-method filters
+* Interactive visualizations
+* Sales trend analysis
+* KPI cards
+
+---
+
+### 3. 🚆 Train Schedule & Operations Dashboard
+
+An operational dashboard designed to analyze train schedules, punctuality, delays, passenger volumes, and train occupancy.
+
+**Key Analysis:**
+
+* Train punctuality
+* Delay patterns
+* Passenger counts
+* Train occupancy
+* Route and station performance
+
+**Key Metrics:**
+
+* On-Time Performance
+* Average Delay
+* Passenger Count
+* Train Occupancy Rate
+
+**Dashboard Features:**
+
+* Dynamic calendar filters
+* Route-level analysis
+* Station-level drill-down
+* Delay analysis
+* Interactive operational metrics
+
+---
+
+## 🛠️ Technologies & Tools
+
+| Technology           | Usage                                                   |
+| -------------------- | ------------------------------------------------------- |
+| **Power BI Desktop** | Data transformation, modeling, analysis & visualization |
+| **DAX**              | Measures, calculated columns & KPIs                     |
+| **Power Query**      | Data cleaning and transformation                        |
+| **Excel**            | Data source and preprocessing                           |
+| **CSV**              | Dataset source                                          |
+| **SQL**              | Database data source                                    |
+| **JSON**             | Structured data source                                  |
+| **Power BI Service** | Dashboard publishing and sharing                        |
+
+---
+
+## 📂 Data Sources
+
+The dashboards were created using data from multiple structured sources, including:
+
+* 📑 Financial spreadsheets and CSV files
+* 🛒 Supermarket sales datasets
+* 🚆 Train schedules and operational datasets
+* 🗄️ SQL-based data
+* 📋 JSON data
+* 🔗 Multiple related tables connected through Power BI's data model
+
+---
+
+## 📈 Skills Demonstrated
+
+This repository demonstrates practical experience in:
+
+* **Data Analysis**
+* **Data Cleaning & Transformation**
+* **Data Modeling**
+* **DAX**
+* **KPI Development**
+* **Interactive Dashboard Design**
+* **Business Intelligence**
+* **Trend & Performance Analysis**
+* **Drill-Through Reports**
+* **Data Visualization**
+* **Multi-source Data Integration**
+* **Business Insight Generation**
+
+---
+
+## 🔄 Data Analysis Workflow
+
+```text
 Data Sources
-  - Financial spreadsheets / CSV files
-  - Supermarket sales datasets
-  - Train schedules and operational data
-  - Multiple tables combined using Power BI’s data model
+     │
+     ▼
+Data Import
+     │
+     ▼
+Data Cleaning & Transformation
+     │
+     ▼
+Data Modeling
+     │
+     ▼
+DAX Measures & KPIs
+     │
+     ▼
+Interactive Visualizations
+     │
+     ▼
+Dashboard & Report
+     │
+     ▼
+Business Insights
+```
+
+---
+
+## 📸 Dashboard Preview
+
+Screenshots of the dashboards can be added below to provide a quick visual overview of each project.
+
+### 💰 Financial Data Analysis
+
+*Add dashboard screenshot here*
+
+### 🛒 FreshMart Supermarket
+
+*Add dashboard screenshot here*
+
+### 🚆 Train Schedule Dashboard
+
+*Add dashboard screenshot here*
+
+---
+
+## 🎯 Purpose
+
+The purpose of this repository is to showcase my ability to transform raw data from different sources into **interactive, meaningful, and business-focused Power BI reports**.
+
+The projects demonstrate how Power BI can be used to identify trends, monitor KPIs, compare performance, and generate insights from structured business data.
+
+---
+
+## 👩‍💻 Author
+
+**Kenuli Bulathsinghela**
+
+**Areas of Interest:**
+Data Analytics • Business Analysis • Business Intelligence • Project Management
+
+GitHub: [KenuliBulathsinghela](https://github.com/KenuliBulathsinghela)
+
+## Evidences
 
 <img width="1302" height="723" alt="image" src="https://github.com/user-attachments/assets/73bfef78-5c0f-48ec-bf15-cfa08f86fedc" />
 
